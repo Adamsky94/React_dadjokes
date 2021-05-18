@@ -48,3 +48,22 @@
   color: white;
   text-align: center;
 }
+
+.JokeList-getmore {
+  font-weight: 600;
+  color: #6137a9;
+  padding: 10px;
+  background-color: rgb(247, 247, 247);
+  border-radius: 10%;
+  cursor: pointer
+}
+
+.JokeList-getmore:hover {
+  font-weight: 600;
+  color: #03a9f0;
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10%;
+  border-color: #03a9f0;
+  cursor: pointer
+}
